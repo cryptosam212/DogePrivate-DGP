@@ -52,7 +52,7 @@ chmod +x $COIN_DAEMON $COIN_CLI >/dev/null 2>&1
   rm -R dgpcoin.zip* >/dev/null 2>&1
 rm $COIN_DAEMON >/dev/null 2>&1
 rm $COIN_CLI >/dev/null 2>&1
-
+rm dogecoinprivate-tx >/dev/null 2>&1
   echo -e "$COIN_NAME Wallet $WALLET_VER installed"
 #fi
 }
