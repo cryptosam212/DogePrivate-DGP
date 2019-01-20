@@ -68,7 +68,7 @@
 					  Tools -&gt; Open Masternode Configuration File.
 					  <br>
 					Fill masternode code at new line like this <br>
-				<img src="http://dextro.io/images/masternode_config.jpg" width="1000px" style="margin:10px"></li>
+				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet5.jpg" width="1000px" style="margin:10px"></li>
 				  </ol>
 				</ol>
 				<p>&nbsp;</p>
