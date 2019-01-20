@@ -44,21 +44,13 @@
 				</ol>
 
 <h3><ol start="3">
-	  <li>Obtain MasterNode private key and transaction of the collateral transfer information.
+	  <li>Obtain transaction of the collateral transfer information.
  </li>
 </ol></h3>
 <ol>
   <ol type="a">
 					<li>From the top menu, go to Tools -&gt;Debug console</li>
-					<li style=" margin-bottom:20px">
-					Run the following command: <span style="background-color: #86BBE1; padding:3px 5px 3px 5px"><strong>masternode genkey</strong></span>
-					<br>
-				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet3.jpg" width="1000px" style="margin:10px"><br>
-					A long  private key will be displayed (example as per below) and required for both Windows  wallet masternode config:
-					<br>
-				<span style="font-size:20px; background-color:#86BBE1; padding:3px 5px 3px 5px; margin-left:10px"><strong>87KETU5AsEQn1jL66ACTuseizq6bbRiqdD56uFT8ShJ7t8xnNMs</strong></span>
-					</li>
-					<li>Continue to run following command:   <span style="font-size:16px; background-color:#86BBE1; padding:3px 5px 3px 5px; font-weight:bold">masternode outputs</span><br>
+					<li>Run following command:   <span style="font-size:16px; background-color:#86BBE1; padding:3px 5px 3px 5px; font-weight:bold">masternode outputs</span><br>
 				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet4.jpg" width="1000px" style="margin:10px">
 				<br>
 					</li>
