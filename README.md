@@ -15,8 +15,6 @@
 				</ul>
 				<h3>Install and run the dogecoinprivate-qt wallet on your Windows machine</h3>
 					<li>Download dogecoinprivate-qt the latest wallet <br>
-  Mac Wallet: https://github.com/PrivateDOGP/DOGP-Project/releases/download/v1.0.0/Dogecoin-Private-Qt.dmg 
-<br/>
   Windows Wallet (32 bit): https://github.com/PrivateDOGP/DOGP-Project/releases/download/v1.0.0/dogecoinprivate-win32.zip
   </br>
   Windows Wallet (64 bit): https://github.com/PrivateDOGP/DOGP-Project/releases/download/v1.0.0/dogecoinprivate-win64.zip 
@@ -24,7 +22,7 @@
 					<li>Extract wallet </li>
 					<li>Double  click on <strong>dogecoinprivate-qt</strong> to install wallet</li>
 					<li>Click  &quot;Yes&quot; button if you get 'unknown publisher' warning to continue</li>
-					<li>If  you first time run the wallet, a pop-up screen will prompt for Data Directory.  By default, it will store in AppData\roaming\dextro directory.</li>
+					<li>If  you first time run the wallet, a pop-up screen will prompt for Data Directory.  By default, it will store in AppData\roaming\DOGP directory.</li>
 					<li>Let  the wallet sync until you see the tick symbol on the right bottom</li>
 					<p><img src="http://dextro.io/images/wallet1.png" width="1000px" style="margin:10px"></p>
 					<h3><ol start="2">
