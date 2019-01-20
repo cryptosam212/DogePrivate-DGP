@@ -63,7 +63,7 @@
 				<br>
 					</li>
 					
-				  </ol>
+</ol>
 				</ol>
 				<p>&nbsp;</p>
 				<h2 style="color: #25499A">Part 2: Subscribe VPS for Hot Wallet server</h2>
