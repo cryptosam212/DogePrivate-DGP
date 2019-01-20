@@ -61,7 +61,6 @@
 					<li>Continue to run following command:   <span style="font-size:16px; background-color:#86BBE1; padding:3px 5px 3px 5px; font-weight:bold">masternode outputs</span><br>
 				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet4.jpg" width="1000px" style="margin:10px">
 				<br>
-					  <p><strong>NOTE:</strong> In case your masternode outputs is  BLANK, it could be you may not sent EXACTLY 2,000 DXO in a single transaction. So, you can send again exactly 2,000 DXO to address MN1</p>
 					</li>
 					<li>
 					Now, we can setup masternode config. At windows wallet click 
