@@ -157,20 +157,19 @@
 
 <span style="background-color:#ccc; font-weight:bold; font-size:18px; padding:10px 20px 10px 20px">startmasternode alias "0" "MN1"</span>
 				<br>
-				<img src="http://dextro.io/images/start-masternode.png" width="600px" style="margin:10px"><br><br>
-				if successfull we shown like this<br>
-				<img src="http://dextro.io/images/start-masternode2.png" width="600px" style="margin:10px"><br><br>
+				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/mn1.jpg" width="600px" style="margin:10px"><br><br>
 				check at masternode tab and click update status for get newest status<br>
-				<img src="http://dextro.io/images/start-masternode2a.png" width="600px" style="margin:10px"><br>
+				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/mn2.jpg" width="600px" style="margin:10px"><br>
 				if status enable, your masternode already activated. Check next 10minutes for active time must change forward.
 				<br>
 
 <h3><li>Check your MasterNode is enabled on VPS</li></h3>
 				  <ol type="a">
-				  <li>Check Mnsync status for check sync completed. <br><br>
-				  <span style="background-color:#ccc; font-weight:bold; font-size:18px; padding:10px 20px 10px 20px;">dextro-cli mnsync status</span> <br><br>
-				and report must contain  "IsBlockchainSynced" : true,<br><br>
-				<br>
+				  <li>inside your VPS, access masternode's menu. <br>
+<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/mn3.jpg" width="600px" style="margin:10px"><br>
+<br>
+<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/mn4.jpg" width="600px" style="margin:10px"><br>
+<br>
 
 </li>
 				<li>if already synced, check masternode status with :<br><br>
