@@ -25,7 +25,7 @@
 					<li>Click  &quot;Yes&quot; button if you get 'unknown publisher' warning to continue</li>
 					<li>If  you first time run the wallet, a pop-up screen will prompt for Data Directory.  By default, it will store in AppData\roaming\DOGP directory.</li>
 					<li>Let  the wallet sync until you see the tick symbol on the right bottom</li>
-					<p><img src="http://dextro.io/images/wallet1.png" width="1000px" style="margin:10px"></p>
+					<p><img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet1.png" width="1000px" style="margin:10px"></p>
 					<h3><ol start="2">
 				  <li>
 				   Create a wallet address and send DXO coin to the address for your MasterNode collateral.
@@ -35,7 +35,7 @@
 				  <ol type="a">
 					<li>From  the top menu, go to <strong>File</strong> -&gt;  Receiving addresses</li>
 					<li>Click  on &quot;<strong>New</strong>&quot; button, enter a  label (for example, MN1) and click on &quot;OK&quot; button<br>
-					<img src="http://dextro.io/images/wallet2.jpg" width="1000px" style="margin:10px">
+					<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet2.jpg" width="1000px" style="margin:10px">
 					</li>
 					<li>Select on the newly created wallet address from the list and then click on "Copy" button to copy the address into the clipboard</li>
 					<li>Send exactly 2,000 DXO coins to the address that you just copied. Ensure the address is correct before you send out the coin.</li>
@@ -53,13 +53,13 @@
 					<li style=" margin-bottom:20px">
 					Run the following command: <span style="background-color: #86BBE1; padding:3px 5px 3px 5px"><strong>masternode genkey</strong></span>
 					<br>
-				<img src="http://dextro.io/images/wallet3.jpg" width="1000px" style="margin:10px"><br>
+				<img src="hhttps://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet3.jpg" width="1000px" style="margin:10px"><br>
 					A long  private key will be displayed (example as per below) and required for both Windows  wallet masternode config and Dextro Platform configuration later on:
 					<br>
 				<span style="font-size:20px; background-color:#86BBE1; padding:3px 5px 3px 5px; margin-left:10px"><strong>6K4Qop71Cs9sV5KoszVi9wCXXoXU2LHGdBNoeQrAose3TWEkTXc</strong></span>
 					</li>
 					<li>Continue to run following command:   <span style="font-size:16px; background-color:#86BBE1; padding:3px 5px 3px 5px; font-weight:bold">masternode outputs</span><br>
-				<img src="http://dextro.io/images/wallet4.jpg" width="1000px" style="margin:10px">
+				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet4.jpg" width="1000px" style="margin:10px">
 				<br>
 					  <p><strong>NOTE:</strong> In case your masternode outputs is  BLANK, it could be you may not sent EXACTLY 2,000 DXO in a single transaction. So, you can send again exactly 2,000 DXO to address MN1</p>
 					</li>
