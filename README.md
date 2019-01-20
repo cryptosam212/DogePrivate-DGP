@@ -165,21 +165,14 @@
 
 <h3><li>Check your MasterNode is enabled on VPS</li></h3>
 				  <ol type="a">
-				  <li>inside your VPS, access masternode's menu. <br>
+				  <li>inside your VPS, access masternode's menu. <br></li>
 <img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/mn3.jpg" width="600px" style="margin:10px"><br>
 <br>
+
 <img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/mn4.jpg" width="600px" style="margin:10px"><br>
 <br>
-
-</li>
-				<li>if already synced, check masternode status with :<br><br>
-				<span style="background-color:#ccc; font-weight:bold; font-size:18px; padding:10px 20px 10px 20px">dextro-cli masternode status</span><br>
-				<br>
-				<img src="http://dextro.io/images/start-masternode3.png" width="600px" style="margin:10px"><br>
-				report contain "status" : "Masternode successfully started"
-				</li>
 				  </ol>
 				</ol>
 				<p>&nbsp;</p>  
-				<p>Congratulations, your masternode has been activated and running. Just wait for your first Dextro Masternode reward.</p> </div>
+				<p>Congratulations, your masternode has been activated and running. Just wait for your first reward.</p> </div>
 							<br />
