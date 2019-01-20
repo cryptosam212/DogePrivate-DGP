@@ -132,8 +132,8 @@
 				<li>Choose option 1 for create new masternode, and follow the instruction. <br>
 					Do you want to install all needed dependencies? choose y for new vps<br/></li>
 					<li>Do you want to install wallet version 100000 to usr/local/bin? choose y  for new vps<br><br></li>
-				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/add_swap4GBputty4.jpg" width="600px" style="margin:10px"><br><br>
-	<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/add_swap4GBputty5.jpg" width="600px" style="margin:10px"><br>
+				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/putty4.jpg" width="600px" style="margin:10px"><br><br>
+	<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/putty5.jpg" width="600px" style="margin:10px"><br>
 				  </li>
 				  <li>
 					Now, we can setup masternode config. At windows wallet click 
