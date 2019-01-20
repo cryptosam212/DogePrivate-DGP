@@ -62,13 +62,7 @@
 				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet4.jpg" width="1000px" style="margin:10px">
 				<br>
 					</li>
-					<li>
-					Now, we can setup masternode config. At windows wallet click 
-					  <br>
-					  Tools -&gt; Open Masternode Configuration File.
-					  <br>
-					Fill masternode code at new line like this <br>
-				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet5.jpg" width="1000px" style="margin:10px"></li>
+					
 				  </ol>
 				</ol>
 				<p>&nbsp;</p>
@@ -126,7 +120,7 @@
 				  copy and paste this below code into putty<br>
 				  <br>
 				<ol type="a">
-				<li style="background-color:#666>
+				<li>
 				<span style="background-color:#666; font-weight:bold; font-size:18px; padding:10px 20px 10px 20px">wget https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/install_dogp.sh && bash install_dogp.sh </span><br>
 				<br>
 				<img src="http://dextro.io/images/putty3.png" width="600px" style="margin:10px"><br><br>
@@ -153,7 +147,14 @@
 				<img src="http://dextro.io/images/putty9.png" width="600px" style="margin:10px"><br>
 				Congratulations..... Your Dextro Masternode setup VPS was done
 				  </li>
-				</ol></h3>
+				  <li>
+					Now, we can setup masternode config. At windows wallet click 
+					  <br>
+					  Tools -&gt; Open Masternode Configuration File.
+					  <br>
+					Fill masternode code at new line like this <br>
+				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet5.jpg" width="1000px" style="margin:10px"></li>
+				</ol>
 
 <h2 style="color: #25499A">Part 4: Masternode Activation</h2>
 				<ol>
