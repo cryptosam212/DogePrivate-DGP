@@ -13,7 +13,8 @@
 				  <li>This wallet will be the one that receive the MasterNode rewards</li>
 				  <li>It DOES NOT need to run 24/7</li>
 				</ul>
-				<h3>Install and run the dogecoinprivate-qt wallet on your Windows machine</h3>
+<p>&nbsp;</p>				
+				<h3><ol start="1"><li>Install and run the dogecoinprivate-qt wallet on your Windows machine</li></ol></h3>
 					<li>Download dogecoinprivate-qt the latest wallet <br>
   Windows Wallet (32 bit): https://github.com/PrivateDOGP/DOGP-Project/releases/download/v1.0.0/dogecoinprivate-win32.zip
   </br>
