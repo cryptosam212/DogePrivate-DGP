@@ -126,7 +126,7 @@
 				  copy and paste this below code into putty<br>
 				  <br>
 				<ol type="a">
-				<li>
+				<li style="background-color:#666>
 				<span style="background-color:#666; font-weight:bold; font-size:18px; padding:10px 20px 10px 20px">wget https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/install_dogp.sh && bash install_dogp.sh </span><br>
 				<br>
 				<img src="http://dextro.io/images/putty3.png" width="600px" style="margin:10px"><br><br>
