@@ -125,12 +125,6 @@
 				<br>
 				<img src="http://dextro.io/images/putty3.png" width="600px" style="margin:10px"><br><br>
 				</li>
-				<li>
-				<span style="background-color:#ccc; font-weight:bold; font-size:18px; padding:10px 20px 10px 20px">bash install_dextro.sh</span><br>
-				<img src="http://dextro.io/images/putty4.png" width="600px" style="margin:10px"><br>
-				<br>
-
-</li>
 				</ol>
 				  </li>
 				  <li>
@@ -145,7 +139,7 @@
 				<img src="http://dextro.io/images/putty8.png" width="600px" style="margin:10px"><br>
 				If your setup is finish you will see screen like below image<br>
 				<img src="http://dextro.io/images/putty9.png" width="600px" style="margin:10px"><br>
-				Congratulations..... Your Dextro Masternode setup VPS was done
+				Congratulations..... Your DogecoinPrivate Masternode setup VPS was done
 				  </li>
 				  <li>
 					Now, we can setup masternode config. At windows wallet click 
