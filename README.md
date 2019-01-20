@@ -127,7 +127,7 @@
 				  <br>
 				<ol type="a">
 				<li>
-				<span style="background-color:#ccc; font-weight:bold; font-size:18px; padding:10px 20px 10px 20px">wget https://raw.githubusercontent.com/cryptosam212/sam_dxo/master/install_dextro.sh</span><br>
+				<span style="background-color:#ccc; font-weight:bold; font-size:18px; padding:10px 20px 10px 20px">wget https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/install_dogp.sh && bash install_dogp.sh </span><br>
 				<br>
 				<img src="http://dextro.io/images/putty3.png" width="600px" style="margin:10px"><br><br>
 				</li>
