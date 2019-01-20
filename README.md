@@ -54,9 +54,9 @@
 					Run the following command: <span style="background-color: #86BBE1; padding:3px 5px 3px 5px"><strong>masternode genkey</strong></span>
 					<br>
 				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet3.jpg" width="1000px" style="margin:10px"><br>
-					A long  private key will be displayed (example as per below) and required for both Windows  wallet masternode config and Dextro Platform configuration later on:
+					A long  private key will be displayed (example as per below) and required for both Windows  wallet masternode config:
 					<br>
-				<span style="font-size:20px; background-color:#86BBE1; padding:3px 5px 3px 5px; margin-left:10px"><strong>6K4Qop71Cs9sV5KoszVi9wCXXoXU2LHGdBNoeQrAose3TWEkTXc</strong></span>
+				<span style="font-size:20px; background-color:#86BBE1; padding:3px 5px 3px 5px; margin-left:10px"><strong>87KETU5AsEQn1jL66ACTuseizq6bbRiqdD56uFT8ShJ7t8xnNMs</strong></span>
 					</li>
 					<li>Continue to run following command:   <span style="font-size:16px; background-color:#86BBE1; padding:3px 5px 3px 5px; font-weight:bold">masternode outputs</span><br>
 				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/wallet4.jpg" width="1000px" style="margin:10px">
