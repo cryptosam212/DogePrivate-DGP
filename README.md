@@ -128,9 +128,10 @@
 </li>
 				  <li>Install new dogecoinPrivate Masternode<br>
 				if you quit from dogecoinprivate MN script, you can run again it with command: bash install_dogp.sh<br>
-				Choose option 1 for create new masternode, and follow the instruction. <br>
-	Do you want to install all needed dependencies? choose y for new vps<br/>
-	echo -e "${YELLOW}Do you want to install wallet version 100000 to usr/local/bin? choose y <br><br>
+				<ol type="a">
+				<li>Choose option 1 for create new masternode, and follow the instruction. <br>
+					Do you want to install all needed dependencies? choose y for new vps<br/></li>
+					<li>Do you want to install wallet version 100000 to usr/local/bin? choose y  for new vps<br><br></li>
 				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/add_swap4GBputty4.jpg" width="600px" style="margin:10px"><br><br>
 	<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/add_swap4GBputty5.jpg" width="600px" style="margin:10px"><br>
 				  </li>
