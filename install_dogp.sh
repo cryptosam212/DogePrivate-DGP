@@ -565,7 +565,10 @@ echo ""
 echo -e "${YELLOW}What would you like to do? type number of your choice${NC}"
 read PILIH
 
-echo ""
+if [[ $PILIH = "" ]]
+then
+exit 1
+fi
 
  if [ $PILIH = "99" ]
 then
