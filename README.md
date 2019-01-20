@@ -104,7 +104,7 @@
 				  <li>You may use SSH client to connect the VPS. Recommend <a href="https://putty.org" rel="nofollow" target="_blank">PuTTY</a></li>
 				</ul>
 
-<h3><ol>
+<ol>
 				  <li>
 					Launch PuTTY application and login into VPS. Copy VPS IP Address and click open.<br>
 				<img src="http://dextro.io/images/putty1.png" width="500px" style="margin:10px">
