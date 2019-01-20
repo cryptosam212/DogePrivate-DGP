@@ -111,21 +111,16 @@
 				  <li>
 				  copy and paste this below code into putty<br>
 				  <br>
-				<ol type="a">
-				<li>
+<li>
 				<span style="background-color:#666; font-weight:bold; font-size:18px; padding:10px 20px 10px 20px">wget https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/install_dogp.sh && bash install_dogp.sh </span><br>
 				<br>
 				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/putty3.jpg" width="600px" style="margin:10px"><br><br>
 				</li>
-				</ol>
-				  </li>
+				</li>
 				  <li>Add 4GB Swap. This is only for server 1024MB VPS. (OPTIONAL)<br>
 				  <img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/add_swap4GBputty.jpg" width="600px" style="margin:10px"><br>
 				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/add_swap4GBputty1.jpg" width="600px" style="margin:10px"><br>
 				  </li>
-				  <li>
-	
-</li>
 				  <li>Install new dogecoinPrivate Masternode<br>
 				if you quit from dogecoinprivate MN script, you can run again it with command: bash install_dogp.sh<br>
 				<ol type="a">
