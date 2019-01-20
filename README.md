@@ -119,10 +119,17 @@
 				</li>
 				</ol>
 				  </li>
-				  <li>
-				  Wait and follow the installing<br>
-				  </li>
+				  <li>Add 4GB Swap. This is only for server 1024MB VPS. (OPTIONAL)<br>
+				  <ol type="a">
 				<li>
+				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/add_swap4GBputty.jpg" width="600px" style="margin:10px"><br><br>
+				</li>
+					  <li>
+				<img src="https://raw.githubusercontent.com/cryptosam212/DogePrivate-DGP/master/add_swap4GBputty1.jpg" width="600px" style="margin:10px"><br><br>
+				</li>
+				</ol>
+				  </li>
+				  <li>
 				  copy and paste your private key that generated<br>
 				Press Enter to continue<br>
 				Wait untill process finished<br>
