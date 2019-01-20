@@ -129,16 +129,11 @@
 				  </li>
 				  <li>
 				  Wait and follow the installing<br>
-				<img src="http://dextro.io/images/putty5.png" width="600px" style="margin:10px"><br>
-				<img src="http://dextro.io/images/putty6.png" width="600px" style="margin:10px"><br>
 				  </li>
 				<li>
 				  copy and paste your private key that generated<br>
-				<img src="http://dextro.io/images/putty7.png" width="600px" style="margin:10px"><br>
 				Press Enter to continue<br>
-				<img src="http://dextro.io/images/putty8.png" width="600px" style="margin:10px"><br>
-				If your setup is finish you will see screen like below image<br>
-				<img src="http://dextro.io/images/putty9.png" width="600px" style="margin:10px"><br>
+				Wait untill process finished<br>
 				Congratulations..... Your DogecoinPrivate Masternode setup VPS was done
 				  </li>
 				  <li>
@@ -154,9 +149,9 @@
 				<ol>
 				  <h3><li>Enable Masternode</li></h3>
 				  Restart your Windows Cold Wallet. From the top menu, go to Tools -&gt; Debug console<br>
-				to acivate masternode, use command <strong>masternode start-alias MN_ALIAS</strong><br><br>
+				to acivate masternode, use command <strong>startmasternode alias "0" "MN_ALIAS"</strong><br><br>
 
-<span style="background-color:#ccc; font-weight:bold; font-size:18px; padding:10px 20px 10px 20px">masternode start-alias MN1</span>
+<span style="background-color:#ccc; font-weight:bold; font-size:18px; padding:10px 20px 10px 20px">startmasternode alias "0" "MN1"</span>
 				<br>
 				<img src="http://dextro.io/images/start-masternode.png" width="600px" style="margin:10px"><br><br>
 				if successfull we shown like this<br>
