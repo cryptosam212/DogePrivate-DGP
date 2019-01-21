@@ -1,4 +1,4 @@
-# DogePrivate-DGP
+# DogePrivate-DGP setup multiple masternodes
 
 <h2>Requirements</h2>
 				<ul>
@@ -171,3 +171,5 @@
 				<p>&nbsp;</p>  
 				<p>Congratulations, your masternode has been activated and running. Just wait for your first reward.</p> </div>
 							<br />
+<h3>for setup more masternodes, just run again script : bash install_dogp.sh<br>
+and Choose option 1 for create new masternode, and follow the instruction </h3>
