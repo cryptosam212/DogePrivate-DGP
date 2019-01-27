@@ -300,7 +300,7 @@ server=1
 daemon=1
 staking=0
 logintimestamps=1
-maxconnections=256
+maxconnections=64
 masternode=1
 
 externalip=$NODEIP:$COIN_PORT1
@@ -315,6 +315,8 @@ addnode=35.245.144.95:31472
 addnode=95.179.179.67:31472
 addnode=84.59.84.106:31472
 addnode=95.8.185.204:31472
+addnode=95.179.179.67
+addnode=199.247.31.7
 
 EOF
 }
