@@ -940,7 +940,7 @@ snapshot_sync
   update_config
   configure_systemd
   create_menu
-#  enable_firewall
+  enable_firewall
   important_information
 echo "1" >> /root/bin/dogecoinprivate_installed
 donasi
